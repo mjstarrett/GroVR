@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4CEE9001-9025-64BE-237B-A6712B5D7D29}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WaterPlant.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PottedPlant.cs" Line="125" Column="52" />
+      <File FileName="Assets/Scripts/WaterPlant.cs" Line="21" Column="10" />
+      <File FileName="Assets/Scripts/SoilCollision.cs" Line="6" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
